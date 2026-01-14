@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "死にたいわけじゃなくて",
+  "base_artist": "アサノマチ",
+  "createdAt": "2026-01-14T08:42:50.595550Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死にたいわけじゃなくて",
+      "artist": "アサノマチ",
+      "has_synced": false,
+      "path": "select/pl_01_死にたいわけじゃなくて_アサノマチ.txt"
+    }
+  ]
+}
